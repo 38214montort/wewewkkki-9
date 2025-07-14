@@ -1,0 +1,23 @@
+label{
+    display: block;
+
+}
+
+input[type="text"], 
+input[type="password"], 
+input[type="date"], 
+input[type="note"]{
+    width: 300px;
+
+    margin-bottom: 30px;
+
+    background-color: rgb(245, 241, 220);
+
+    padding: 10px;
+
+    border: 2px dashed rgb(60, 45, 33);
+}
+
+input[type="radio"]{
+    display: block;
+}
